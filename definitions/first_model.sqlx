@@ -1,0 +1,4 @@
+config { type: "view", schema: "test_ds"}
+
+
+select 1 as test

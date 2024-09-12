@@ -1,0 +1,5 @@
+defaultProject: dbt-bigquery-390010
+defaultLocation: europe-southwest1
+defaultDataset: test_ds
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
